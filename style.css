@@ -1,0 +1,5 @@
+.Pics{
+    display: flex;
+    flex-direction: row;
+    border: 5px solid blueviolet
+}
